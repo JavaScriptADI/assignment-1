@@ -33,6 +33,7 @@ CLI: https://chat.openai.com/share/example2
 ```
 > ✅ Tip: You don’t need to get everything perfect. This task is to help you learn and build confidence. Just do your best!
 
+❗NOTE: Conversations with the AI should be in English! (use Claude if you don't know English and use Georgian language)
 
 ## Coding problem set
 
